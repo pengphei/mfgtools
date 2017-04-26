@@ -58,7 +58,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <errno.h>
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 
 #ifndef FALSE
 #define FALSE (0)
